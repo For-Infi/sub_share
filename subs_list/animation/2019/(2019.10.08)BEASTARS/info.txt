@@ -1,0 +1,5 @@
+﻿chs: 动物狂想曲
+cht: 動物狂想曲
+jp: ビースターズ
+en: BEASTARS
+rome: BEASTARS
